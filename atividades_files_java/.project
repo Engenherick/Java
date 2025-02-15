@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>atividades_files_java</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/source.csv</name>
+			<type>1</type>
+			<location>C:/temp/ws-eclipse/atividades_files_java/dirExe/source.csv</location>
+		</link>
+		<link>
+			<name>src/application/file.txt</name>
+			<type>1</type>
+			<location>C:/temp/ws-eclipse/file.txt</location>
+		</link>
+	</linkedResources>
+</projectDescription>
